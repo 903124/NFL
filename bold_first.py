@@ -61,7 +61,7 @@ def main():
         else:                                   # team trad misses pat
          margin += 0
     
-    if margin == 1:
+    if margin == 1:                           # team trad go for two when trailing by two
       if random.random() < trad_two_pt_rate:
         margin += -1
       else:
