@@ -4,7 +4,7 @@
 # u/conceptuality on reddit
 
 # Assume two teams get same number of touchdowns
-# Team tradtional:
+# Team traditional:
 # Kick for a field goal at start/leading
 # Go for two points when up by five or less after touchdown
 # Team bold:
