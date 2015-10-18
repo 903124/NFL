@@ -1,6 +1,7 @@
 # Compare the two cases for traditional team get a touchddown first
-# and bold team get a touchdown first
-
+# and bold team get a touchdown first 
+# Can apply to the case for first team to score TD stop opponent gain from wider margin 
+# by going for two points
 import random
 import numpy as np
 
