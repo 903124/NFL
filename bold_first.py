@@ -28,7 +28,7 @@ def main():
   # parameters:
   trad_pat_rate = 0.95
   trad_two_pt_rate = 0.5  # this is the main hyper parameter
-  bold_two_pt_rate = 0.52
+  bold_two_pt_rate = 0.5
   number_of_runs = 10000
   
 
