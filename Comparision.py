@@ -2,7 +2,7 @@
 # and bold team get a touchdown first 
 # Can apply to the case for first team to score TD stop opponent gain from wider margin 
 # by going for two points
-# not valid when both teams having 85% of 2pt rate :)
+# not valid when both teams having over 85% of 2pt rate :)
 import random
 import numpy as np
 
